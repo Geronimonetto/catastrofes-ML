@@ -37,7 +37,8 @@ A abordagem utilizada no projeto incluiu:
 Projeto desenvolvido por:
 - Ricardo Mello
 - Arthur Dantas
-- João Paulo Geronimo Neto
+- João Paulo
+- Geronimo Neto
 
 ---
 
